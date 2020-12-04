@@ -13,7 +13,7 @@ For this exercise we will go through the following:
 ## To do before lab
 
 1. `git clone` this repo
-2. ``npm install` packaages
+2. `npm install` packages
 3. There are 3 routes in `router.js` - make sure they are working in Postman
 
 ## Creating an ID with UUID
