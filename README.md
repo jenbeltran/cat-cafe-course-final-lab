@@ -69,4 +69,3 @@ Now let's move it to a middleware so whenever we call `verifyToken`, it calls th
 ## Using .gitignore to hide things we don't want on GitLab/GitHub
 
 1. Hide the following: node_modules, database, .env file
-# cat-cafe-course-final-lab
