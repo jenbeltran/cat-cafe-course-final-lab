@@ -21,7 +21,7 @@ router.post("/cats", (req, res) => {
     breed: req.body.breed,
   };
   cats.push(newCat);
-  return res.status(200).send(cats);
+  return res.status(201).send(cats);
 });
 
 router.post("/register", (req, res) => {
